@@ -1,0 +1,20 @@
+DE-Airlines/
+	data/
+		raw/
+			extracted data
+		preprocessed/
+			preprocessed data
+	documents/
+		data model file
+		file structure file
+		pipeline file
+		standard practice on programs file
+	scripts/
+		etl/
+			extract file
+			transform file
+			load file
+		main file
+		test file
+	README.md
+		
