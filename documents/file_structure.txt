@@ -4,17 +4,23 @@ DE-Airlines/
 			extracted data
 		preprocessed/
 			preprocessed data
+		sample/
+			sample data one
+			sample data two
 	documents/
 		data model file
 		file structure file
 		pipeline file
-		standard practice on programs file
+		requirements file
 	scripts/
 		etl/
 			extract file
 			transform file
 			load file
+		qa/
+			code profiling file
+			style checker file
+			unit tests file
 		main file
-		test file
 	README.md
 		
