@@ -34,23 +34,23 @@ Possibly, you can see how I do or set the following:
 import logging
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
+
 def add(number_1, number_2):
-  '''
-  Add two numbers and return them as floats
+    '''
+    Add two numbers and return them as floats
+    :param int/float: the first number
+    :param int/float: the second number
+    :return float: the sum of the first and second number in float type
+    >>> add(4, 5)
+    9.0
+    '''
+    try:
+        result = float(number_1 + number_2)
+    except Exception as e:  # Catch all kind of errors
+        logging.error(f"{e} caught in execution.")
+    else:
+        logging.info(f"Added {number_1} and {number_2} = {result}")
+        return result
 
-  :param int/float: the first number
-  :param int/float: the second number
-  :return float: the sum of the first and second number in float type
-
-  >>> add(4, 5)
-  9.0
-  '''
-  try:
-    result = float(number_1 + number_2)
-  except Exception as e: # Catch all kind of errors
-    logging.error(f" {e} caught in execution.")
-  else:
-    logging.info(f"Successfully added {number_1} and {number_2}. Result is {result}")
-    return result
 ```
 ## SQL Queries Standards
