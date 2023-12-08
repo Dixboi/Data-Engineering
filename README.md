@@ -26,6 +26,9 @@ Possibly, you can see how I do or set the following:
 2. Must display an example output if applicable.
 3. Must have docstrings, short explanation if needed, try-except statement, and logging outputs.
 ```
+import logging
+logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
+
 def add(number_1, number_2):
   '''
   Add two numbers and return them as floats
@@ -38,20 +41,11 @@ def add(number_1, number_2):
   9.0
   '''
   try:
-    if isinstance(number_1, bool) or isinstance(number_2, bool):
-        raise ValueError
-    result = float(float(number_1) + float(number_2))
-    logging.info(f"Successfully added {number_1} and {number_2}. Result: {result}")
-    return result
-  except ValueError:
-    if isinstance(number_1, str) or isinstance(number_1, bool):
-      logging.warning(f" FIRST number not instance of int or float. Converting to zero.")
-      number_1 = 0
-    if isinstance(number_2, str) or isinstance(number_2, bool):
-      logging.warning(f" SECOND number not instance of int or float. Converting to zero.")
-      number_2 = 0
-    return add(number_1, number_2)
-  except Exception as e:
+    result = float(number_1 + number_2)
+  except Exception as e: # Catch all kind of errors
     logging.error(f" {e} caught in execution.")
+  else:
+    logging.info(f"Successfully added {number_1} and {number_2}. Result is {result}")
+    return result
 ```
 ## SQL Queries Standards
