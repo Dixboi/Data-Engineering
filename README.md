@@ -21,6 +21,11 @@ Possibly, you can see how I do or set the following:
 ## Data Model
 ## Data Pipeline
 ## Python Scripts Standards
+### Variable Names and Values
+1. Boolean variable names should start with "is_" or "has_".
+2. Boolean values should ONLY be "True" and "False" when stored in a database.
+3. Date variable names should start with "date_".
+4. Date values should be "YYYY-MM-DD"
 ### Functions
 1. Should only do one thing.
 2. Must display an example output if applicable.
