@@ -1,6 +1,6 @@
 
-# Airways Data
-## A data engineering project
+# Data Engineering
+## A repository to document my knowledge
 ### Background
 Hello there! This is my data engineering project where I will apply all that I've learned from the [Data Engineering Carrer Track of DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer). The topics are making an ETL pipeline, data modeling, error handling, code standards, logging, and unit testing. Also, this is where I will generally document my progress on learning and applying data engineering concepts.
 ### How can this repository help you
