@@ -28,7 +28,7 @@ Possibly, you can see how I do or set the following:
 4. Date values should be "YYYY-MM-DD"
 ### Functions
 1. Should only do one thing.
-2. Must display an example output if applicable.
+2. Must display an example output **if applicable**.
 3. Must have docstrings, short explanation if needed, try-except statement, and logging outputs.
 ```
 import logging
@@ -37,10 +37,16 @@ logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
 def add(number_1, number_2):
     '''
-    Add two numbers and return them as floats
-    :param int/float: the first number
-    :param int/float: the second number
-    :return float: the sum of the first and second number in float type
+    Add two numbers and return them as float
+
+    Parameters
+    number_1: int/float - the first number
+    number_2: int/float - the second number
+
+    Return
+    :float - the sum of the first and second number in float type
+
+    Example
     >>> add(4, 5)
     9.0
     '''
@@ -54,3 +60,14 @@ def add(number_1, number_2):
 
 ```
 ## SQL Queries Standards
+- Should follow the [Modern SQL Style Guide](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
+```
+select t1.name
+     , t2.value
+  from table_one as t1
+  left join table_two as t2
+    on t1.id = t2.id
+ where t1.name like 'E%'
+   and t2.value > 100
+ order by t1.name
+```
