@@ -13,6 +13,8 @@ Possibly, you can see how I do or set the following:
 - provide feedback on things that you think that needs improvement
 ## Table of Contents
 - General File Structure
+- General Data Model
+- General Pipeline
 - Python Scripts Standards
 - SQL Queries Standards
 ## General File Structure
@@ -51,6 +53,19 @@ Project-
 |   L── main file
 |
 L── README.md
+```
+## General Data Model
+## General Pipeline
+```mermaid
+graph TD;
+    data_source_one-->extracted_raw_data;
+    data_source_two-->extracted_raw_data;
+    data_source_three-->extracted_raw_data;
+    extracted_raw_data-->transform_one;
+    transform_one-->transform_two;
+    transform_one-->transform_three;
+    transform_two-->storage;
+    transform_three-->storage;
 ```
 ## Python Scripts Standards
 ### Variable Names and Values
