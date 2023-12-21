@@ -12,6 +12,7 @@ Possibly, you can see how I do or set the following:
 ### How can you help
 - provide feedback on things that you think that needs improvement
 ## Table of Contents
+The information for each content shows my standards for each project that I will make, with execption to very first project.
 - General File Structure
 - General Data Model
 - General Pipeline
