@@ -12,14 +12,46 @@ Possibly, you can see how I do or set the following:
 ### How can you help
 - provide feedback on things that you think that needs improvement
 ## Table of Contents
-- File Structure
-- Data Model
-- Data Pipeline
+- General File Structure
 - Python Scripts Standards
 - SQL Queries Standards
-## File Structure
-## Data Model
-## Data Pipeline
+## General File Structure
+```
+Project-
+├── data/
+|   ├── raw/
+|   |   ├── extracted data one
+|   |   L── extracted data two
+|   |
+|   ├── preprocessed/
+|   |   ├── preprocessed data one
+|   |   L── preprocessed data two
+|   |
+|   L── sample/
+|       ├── sample data one
+|       L── sample data two
+|
+├── documents/
+|   ├── data model
+|   ├── file structure
+|   ├── pipeline
+|   L── requirements
+|
+├── scripts/
+|   ├── etl/
+|   |   ├── extract
+|   |   ├── transform
+|   |   L── load
+|   |
+|   ├── qa/
+|   |   ├── code profiling
+|   |   ├── style checker
+|   |   L── unit tests
+|   |
+|   L── main file
+|
+L── README.md
+```
 ## Python Scripts Standards
 ### Variable Names and Values
 1. Boolean variable names should start with "is_" or "has_".
@@ -44,7 +76,7 @@ def add(number_1, number_2):
     number_2: int/float - the second number
 
     Return
-    :float - the sum of the first and second number in float type
+    result: float - the sum of the first and second number in float type
 
     Example
     >>> add(4, 5)
