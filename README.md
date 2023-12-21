@@ -13,7 +13,7 @@ Possibly, you can see how I do or set the following:
 - provide feedback on things that you think that needs improvement
 ## Table of Contents
 The information for each content shows my standards for each project that I will make, with execption to very first project.
-- General File Structure
+- [General File Structure](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#general-file-structure)
 - General Data Model
 - General Pipeline
 - Python Scripts Standards
