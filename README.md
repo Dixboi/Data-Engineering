@@ -62,7 +62,8 @@ L── README.md
 1. Should only do one thing.
 2. Must display an example output **if applicable**.
 3. Must have docstrings, short explanation if needed, try-except statement, and logging outputs.
-```
+```Python
+
 import logging
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
@@ -93,7 +94,8 @@ def add(number_1, number_2):
 ```
 ## SQL Queries Standards
 - Should follow the [Modern SQL Style Guide](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
-```
+```SQL
+
 select t1.name
      , t2.value
   from table_one as t1
@@ -102,4 +104,5 @@ select t1.name
  where t1.name like 'E%'
    and t2.value > 100
  order by t1.name
+
 ```
