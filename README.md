@@ -30,9 +30,9 @@ Project-
 |   |   ├── raw data A
 |   |   L── raw data B
 |   |
-|   L── sample/
-|       ├── sample data A
-|       L── sample data B
+|   L── test/
+|       ├── test data A
+|       L── test data B
 |
 ├── documents/
 |   ├── data model
