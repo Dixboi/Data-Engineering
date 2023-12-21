@@ -12,12 +12,12 @@ Possibly, you can see how I do or set the following:
 ### How can you help
 - provide feedback on things that you think that needs improvement
 ## Table of Contents
-The information for each content shows my standards for each project that I will make, with execption to very first project.
-- [General File Structure](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#general-file-structure)
-- General Data Model
-- General Pipeline
-- Python Scripts Standards
-- SQL Queries Standards
+The information for each content shows my standards for each project that I will make, with execption to very first project. <br>
+[General File Structure](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#general-file-structure) <br>
+[General Data Model](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#general-data-model) <br>
+[General Pipeline](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#general-pipeline) <br>
+[Python Scripts Standards](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#python-scripts-standards) <br>
+[SQL Queries Standards](https://github.com/Dixboi/Data-Engineering?tab=readme-ov-file#sql-queries-standards) <br>
 ## General File Structure
 ```
 Project-
