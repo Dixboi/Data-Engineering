@@ -122,3 +122,13 @@ select t1.name
  order by t1.name
 
 ```
+# Sources
+## Courses
+1. [Data Engineering Carrer Track by DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer)
+2. [Introduction to Data Engineering by Datacamp](https://app.datacamp.com/learn/courses/introduction-to-data-engineering)
+## Books
+## Documentations
+1. [Mermaid](https://mermaid.js.org/intro/)
+## Articles
+## Videos
+
