@@ -22,13 +22,13 @@ The information for each content shows my standards for each project that I will
 ```
 Project-
 ├── data/
-|   ├── raw/
-|   |   ├── extracted data one
-|   |   L── extracted data two
-|   |
 |   ├── preprocessed/
 |   |   ├── preprocessed data one
 |   |   L── preprocessed data two
+|   |
+|   ├── raw/
+|   |   ├── extracted data one
+|   |   L── extracted data two
 |   |
 |   L── sample/
 |       ├── sample data one
