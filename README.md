@@ -23,16 +23,16 @@ The information for each content shows my standards for each project that I will
 Project-
 ├── data/
 |   ├── preprocessed/
-|   |   ├── preprocessed data one
-|   |   L── preprocessed data two
+|   |   ├── preprocessed data A
+|   |   L── preprocessed data B
 |   |
 |   ├── raw/
-|   |   ├── extracted data one
-|   |   L── extracted data two
+|   |   ├── raw data A
+|   |   L── raw data B
 |   |
 |   L── sample/
-|       ├── sample data one
-|       L── sample data two
+|       ├── sample data A
+|       L── sample data B
 |
 ├── documents/
 |   ├── data model
@@ -59,14 +59,14 @@ L── README.md
 ## General Pipeline
 ```mermaid
 graph TD;
-    data_source_one-->extracted_raw_data;
-    data_source_two-->extracted_raw_data;
-    data_source_three-->extracted_raw_data;
-    extracted_raw_data-->transform_one;
-    transform_one-->transform_two;
-    transform_one-->transform_three;
-    transform_two-->storage;
-    transform_three-->storage;
+    data_source_A-->extracted_raw_data;
+    data_source_B-->extracted_raw_data;
+    data_source_C-->extracted_raw_data;
+    extracted_raw_data-->transform_A;
+    transform_A-->transform_B;
+    transform_A-->transform_C;
+    transform_B-->storage;
+    transform_C-->storage;
 ```
 ## Python Scripts Standards
 ### Variable Names and Values
