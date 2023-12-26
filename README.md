@@ -129,6 +129,10 @@ select t1.name
 ## Books
 ## Documentations
 1. [Mermaid](https://mermaid.js.org/intro/)
+2. [Working with Quotas on Google Sheets](https://cloud.google.com/docs/quota#requesting_higher_quota)
+3. [Rate limit on Google Sheets](https://developers.google.com/sheets/api/limits)
 ## Articles
+1. [Automate Google Sheets with Python](https://www.geeksforgeeks.org/how-to-automate-google-sheets-with-python/)
+2. [Adding data on Google Sheets using Python](https://blog.finxter.com/how-to-append-data-in-a-google-sheet-with-python/)
 ## Videos
 
