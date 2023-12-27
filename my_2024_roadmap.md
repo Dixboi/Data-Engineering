@@ -14,4 +14,4 @@ Use Airflow for scheduling and making DAGs that will be stored in a local MySQL 
 Model a small e-commerce database with dimension tables using MySQL Workbench. Here is a guide to make an [e-commerce data model](https://fabric.inc/blog/commerce/ecommerce-data-model)
 
 ## July
-Utilize dbt for data cleaning and transformation.
+Utilize dbt for data cleaning and transformation. Apply it on [Kaggle e-commerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
