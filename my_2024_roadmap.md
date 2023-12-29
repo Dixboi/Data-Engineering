@@ -20,4 +20,10 @@ Utilize dbt for data cleaning and transformation. Apply it on [Kaggle e-commerce
 Make use of SQL for data management or database design in MySQL. Apply it on the same [Kaggle e-commerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## September
-Use Snowflake for data warehousing
+Data Warehouse - Snowflake
+
+## October
+Batch Processing - Apache Spark
+
+## November
+Stream Processing - Apache Kafka
