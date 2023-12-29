@@ -4,7 +4,7 @@
 **Field**: Data Engineering <br>
 **Focus**: code documentation and profiling <br>
 **Other focuses**: unit tests, data processing, ETL, data visualization, proper styling <br>
-**Tools used**: Python, pytest, pandas, numpy, Google Sheets, Excel, Looker
+**Tools used**: Python, pytest, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate
 ## Pipeline
 ```mermaid
 graph TD
