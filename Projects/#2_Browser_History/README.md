@@ -1,10 +1,12 @@
 # Browser History
 ## Checking for my Browser History
-**Description**: <br>
-**Field**: Data Engineering <br>
-**Focus**: code documentation and profiling <br>
-**Other focuses**: unit tests, data processing, ETL, data visualization, proper styling <br>
-**Tools used**: Python, pytest, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate
+| Field | Content |
+|:------|:--------|
+| Description| Tracking my browser history 
+| Field | Data Engineering  | 
+| Focus | proper styling, automation, proper docstrings  |
+| Other focuses | data processing, ETL, data visualization, profiling  |
+| Tools used | Python, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate |
 ## Pipeline
 ```mermaid
 graph TD
