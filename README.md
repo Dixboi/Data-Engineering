@@ -41,17 +41,11 @@ Project-
 |   L── requirements
 |
 ├── scripts/
-|   ├── etl/
-|   |   ├── extract
-|   |   ├── transform
-|   |   L── load
-|   |
-|   ├── qa/
-|   |   ├── code profiling
-|   |   ├── style checker
-|   |   L── unit tests
-|   |
-|   L── main file
+|   ├── etl
+|   ├── code profiling
+|   ├── style checker
+|   ├── unit tests
+|   L── main
 |
 L── README.md
 ```
