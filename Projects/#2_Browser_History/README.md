@@ -4,7 +4,7 @@
 |:------|:--------|
 | Description| Tracking my browser history 
 | Field | Data Engineering  | 
-| Focus | proper styling, automation, proper docstrings  |
+| Focus | proper Python styling, automation, proper docstrings  |
 | Other focuses | data processing, ETL, data visualization, profiling  |
 | Tools used | Python, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate |
 ## Pipeline
