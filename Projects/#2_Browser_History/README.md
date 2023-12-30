@@ -8,6 +8,33 @@
 | Other focuses | data processing, ETL, data visualization, profiling  |
 | Tools used | Python, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate |
 | Important links | [Extension - History Export](https://chromewebstore.google.com/detail/history-export/lpmoaclacdaofhlijejogfldmgkdlglj) <br> [Looker Public Dashboard](https://lookerstudio.google.com/reporting/17bf277b-e2bd-40e6-8cc8-6c71a3b46bf1) |
+## File Structure
+```
+Browser History-
+├── data/
+|   ├── preprocessed/
+|   |   ├── browser_history_local_data.csv
+|   |   L── z_{latest_timestamp}.csv
+|   |
+|   ├── raw/
+|   |   ├── latest_timestamp.txt
+|   |   L── z_{latest_timesstamp}.txt
+|   
+├── documents/
+|   L── requirements.txt
+|
+├── scripts/
+|   ├── etl/
+|   |   L── etl.py
+|   |
+|   qa/
+|   ├── profile_reader.py
+|   ├── style_checker.py
+|   |
+|   L── main
+|
+L── README.md
+```
 ## Pipeline
 ```mermaid
 flowchart TD
