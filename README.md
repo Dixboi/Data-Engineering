@@ -2,7 +2,10 @@
 # Data Engineering
 ## A repository to document my knowledge
 ### Background
-Hello there! This is my data engineering repository where I will apply all that I've learned from the [Data Engineering Carrer Track of DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer). The topics are making an ETL pipeline, data modeling, error handling, code standards, logging, and unit testing. Also, this is where I will generally document my progress on learning and applying data engineering concepts.
+Hello there! This is my data engineering repository where I will apply all that I've learned about data engineering. The topics are making an ETL pipeline, data modeling, error handling, code standards, logging, unit testing, and other concepts that may be related to data engineering. Also, this is where I will generally document my progress on learning and applying data engineering concepts.
+
+Additionally, this repository will contain two main directories: Learning Projects and Projects. **Learning Projects** will contain my short projects that I aim to apply concepts and knowledge that I learned. These projects will most probably take me about 1-2 weeks to do. **Projects** on the other hand will contain multiple concepts and knowledge that I have gained from Learning Projects. These will take me about 1-2 months to finish.
+
 ### How can this repository help you
 Possibly, you can see how I do or set the following:
 - standardizing Python scripts and SQL queries
@@ -118,7 +121,7 @@ select t1.name
 ```
 # Sources
 ## Courses
-1. [Data Engineering Carrer Track by DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer)
+1. [Data Engineering Career Track by DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer)
 2. [Introduction to Data Engineering by Datacamp](https://app.datacamp.com/learn/courses/introduction-to-data-engineering)
 ## Books
 ## Documentations
@@ -126,7 +129,8 @@ select t1.name
 2. [Working with Quotas on Google Sheets](https://cloud.google.com/docs/quota#requesting_higher_quota)
 3. [Rate limit on Google Sheets](https://developers.google.com/sheets/api/limits)
 ## Articles
-1. [Automate Google Sheets with Python](https://www.geeksforgeeks.org/how-to-automate-google-sheets-with-python/)
-2. [Adding data on Google Sheets using Python](https://blog.finxter.com/how-to-append-data-in-a-google-sheet-with-python/)
+1. [Modern SQL Style Guide](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
+2. [Automate Google Sheets with Python](https://www.geeksforgeeks.org/how-to-automate-google-sheets-with-python/)
+3. [Adding data on Google Sheets using Python](https://blog.finxter.com/how-to-append-data-in-a-google-sheet-with-python/)
 ## Videos
 
