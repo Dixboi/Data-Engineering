@@ -9,7 +9,7 @@
 | Tools used | Python, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate |
 ## Pipeline
 ```mermaid
-graph TD
+flowchart TD
   extract_json-->transform_filter;
   extract_latest_timestamp-->transform_filter;
   transform_filter-->load_new_latest_timestamp;
@@ -21,4 +21,27 @@ graph TD
   transform_preprocess_titles-->transform_to_df;
   transform_to_df-->load_local_spreadsheet;
   transform_to_df-->load_cloud_spreadsheet;
+```
+## Automation Workflow
+```mermaid
+---
+title: Main Workflow
+---
+flowchart LR
+  s((start))-->A[Open Browser]
+  A-->B[Use Extension to Extract History];
+  B-->C[Export History];
+  C-->D[Save in Local Storage];
+  D-->E[[Run Python Scripts]];
+  E-->F[Close Browser];
+  F-->e((end));
+```
+```mermaid
+---
+title: Run Python Scripts
+---
+flowchart LR
+  s((start))-->A[ETL Script];
+  A-->B[Store Code Profile];
+  B-->e((end));
 ```
