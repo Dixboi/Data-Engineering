@@ -27,9 +27,9 @@ Browser History-
 |   ├── etl/
 |   |   L── etl.py
 |   |
-|   qa/
-|   ├── profile_reader.py
-|   ├── style_checker.py
+|   ├── qa/
+|   |   ├── profile_reader.py
+|   |   L── style_checker.py
 |   |
 |   L── main
 |
