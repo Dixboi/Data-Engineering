@@ -1,6 +1,6 @@
 # Browser History
 ## Checking for my Browser History
-| Field | Content |
+|  | Content |
 |:------|:--------|
 | Description| Tracking my browser history 
 | Field | Data Engineering  | 
