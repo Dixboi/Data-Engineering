@@ -7,6 +7,7 @@
 | Focus | proper Python styling, automation, proper docstrings  |
 | Other focuses | data processing, ETL, data visualization, profiling  |
 | Tools used | Python, pandas, numpy, Google Sheets, MS Excel, Looker, MS Power Automate |
+| Important links | [Extension - History Export](https://chromewebstore.google.com/detail/history-export/lpmoaclacdaofhlijejogfldmgkdlglj) <br> [Looker Public Dashboard](https://lookerstudio.google.com/reporting/17bf277b-e2bd-40e6-8cc8-6c71a3b46bf1) |
 ## Pipeline
 ```mermaid
 flowchart TD
