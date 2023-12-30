@@ -1,8 +1,8 @@
 # Browser History
-## Checking for my Browser History
+## Checking on my Browser History
 |  | Content |
 |:------|:--------|
-| Description| Tracking my browser history 
+| Description| A data engineering project where  I want to track my browser activity. |
 | Field | Data Engineering  | 
 | Focus | proper Python styling, automation, proper docstrings  |
 | Other focuses | data processing, ETL, data visualization, profiling  |
