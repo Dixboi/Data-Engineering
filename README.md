@@ -84,14 +84,14 @@ logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 def add(number_1, number_2):
     '''
     Add two numbers and return them as float
-
+    ----
     Parameters
     number_1: int/float - the first number
     number_2: int/float - the second number
-
+    ----
     Return
     result: float - the sum of the first and second number in float type
-
+    ----
     Example
     >>> add(4, 5)
     9.0
