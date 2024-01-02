@@ -29,7 +29,7 @@ Browser History-
 |   |   ├── profile_reader.py
 |   |   L── style_checker.py
 |   |
-|   L── main
+|   L── main.py
 |
 L── README.md
 ```
