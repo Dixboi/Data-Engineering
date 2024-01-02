@@ -52,7 +52,6 @@ Project-
 |
 L── README.md
 ```
-## General Data Model
 ## General Pipeline
 ```mermaid
 graph TD;
