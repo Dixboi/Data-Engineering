@@ -118,11 +118,11 @@ select t1.name
  order by t1.name
 
 ```
-# Data Sources to Consider
-[News API](https://newsapi.org/pricing) <br>
-[Kaggle Finance Dataset](https://www.kaggle.com/datasets/creepycrap/finance-dataset) <br>
-[Currency API](https://github.com/fawazahmed0/currency-api) <br>
-[Kaggle E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) <br>
+# Data Sources to Consider for Projects
+- [News API](https://newsapi.org/pricing)
+- [Kaggle Finance Dataset](https://www.kaggle.com/datasets/creepycrap/finance-dataset)
+- [Currency API](https://github.com/fawazahmed0/currency-api)
+- [Kaggle E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 # Sources or Useful Materials
 ## Courses
 1. [Data Engineering Career Track by DataCamp](https://app.datacamp.com/learn/career-tracks/data-engineer)
