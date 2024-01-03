@@ -136,6 +136,7 @@ select t1.name
 1. [Modern SQL Style Guide](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
 2. [Automate Google Sheets with Python](https://www.geeksforgeeks.org/how-to-automate-google-sheets-with-python/)
 3. [Adding data on Google Sheets using Python](https://blog.finxter.com/how-to-append-data-in-a-google-sheet-with-python/)
+4. [Documenting a Dashboard](https://chartio.com/learn/dashboards/how-to-create-documentation-for-dashboards/)
 ## Videos
 1. [Uber Data Engineer Interview: Design a Ride Sharing Schema](https://www.youtube.com/watch?v=f7v_1UmkAoM)
 
