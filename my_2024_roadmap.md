@@ -6,7 +6,7 @@ Focus more on work to soak up all of the experience and to review for the Civil 
 
 ## April - June
 Learn more about Data Engineering Fundamentals and have a strong foundation about it. Terminologies, processes, important things to consider.
-Possible materials to consider:
+Possible learning materials to take:
 1. [Kahan Data Solutions](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - FREE
 2. [Data Engineering Tutorial from Scaler](https://www.youtube.com/watch?v=QSFq8S_Ui5g) - FREE
 3. [Vocabulary for Data Engineers by Seattle Data Guy](https://www.youtube.com/watch?v=TDbjd6Wl6TI) - FREE
