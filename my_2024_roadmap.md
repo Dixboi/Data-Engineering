@@ -1,29 +1,17 @@
 # Self-Taught Data Engineering 2024 Roadmap
 Hello. Since I'm still new in the data engineering field, I wanted to have a roadmap for 2024 so that I won't get lost during my learning process. The contents here are highly personal and subject to change (depending on the knowledge that I will gain).
 
-## January - March
-Learn more about Data Engineering and take all the activities in Google Cloud Skills Boost from [Database Engineer Learning Path](https://www.cloudskillsboost.google/paths/22)
+## Jan - Mar
+Focus more on work to soak up all of the experience and to review for the Civil Service Exam (Jan-Feb).
 
 ## April
-Setup a local database using MySQL for a simple finance dataset. The finance dataset is from [Kaggle Finance dataset](https://www.kaggle.com/datasets/creepycrap/finance-dataset)
+Learn more about Data Engineering Fundamentals and have a strong foundation about it. Terminologies, processes, important things to consider.
 
-## May
-Use Airflow for scheduling and making DAGs that will be stored in a local MySQL database. The data will come from [Currency API](https://github.com/fawazahmed0/currency-api)
+## May - June
+Learn more about Data Engineering and take all the activities in Google Cloud Skills Boost from [Database Engineer Learning Path](https://www.cloudskillsboost.google/paths/22)
 
-## June
-Model a small e-commerce database with dimension tables using MySQL Workbench. Here is a guide to make an [e-commerce data model](https://fabric.inc/blog/commerce/ecommerce-data-model)
+## August - November
+TBD - depending on what I will gather from studying the fundamentals
 
-## July
-Utilize dbt for data cleaning and transformation. Apply it on [Kaggle e-commerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
-## August
-Make use of SQL for data management or database design in MySQL. Apply it on the same [Kaggle e-commerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
-## September
-Data Warehouse - Snowflake
-
-## October
-Batch Processing - Apache Spark
-
-## November
-Stream Processing - Apache Kafka
+## December
+Make an End-to-End project that actually provides value
