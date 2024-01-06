@@ -1,5 +1,5 @@
 # Self-Taught Data Engineering 2024 Roadmap
-Hello. Since I'm still new in the data engineering field, I wanted to have a roadmap for 2024 so that I won't get lost during my learning process. The contents here are highly personal and subject to change (depending on the knowledge that I will gain).
+Hello. Since I'm still new in the data engineering field, I wanted to have a roadmap for 2024 and 2025 so that I won't get lost during my learning process. The contents here are highly personal and subject to change (depending on the knowledge that I will gain). My goal is to have a stronger foundation on concepts and terminologies on 2024 and then to create multiple projects during 2025.
 
 ## January - March 2024
 Focus more on work to soak up all of the experience and to review for the Civil Service Exam (Jan-Feb).
