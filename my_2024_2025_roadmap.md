@@ -15,11 +15,13 @@ Learn more about Data Engineering Fundamentals and have a strong foundation abou
 5. [97 Things Every Data Engineer Should Know Book](https://www.amazon.co.uk/dp/B0977S3XZJ?_encoding=UTF8&btkr=1&linkId=2d9c1d3f29617b61ff88238bfc6a73e7&language=en_GB&ref_=as_li_ss_tl) - Php 2000
 
 ### Data Warehousing
-1. [Data Warehouse Fundamentals for Beginners - Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) - Php 5000
-2. [The Data Warehouse Toolkit Book](https://www.amazon.co.uk/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802?&linkId=50a288800f3324f8ac8fc28046b71815&language=en_GB&ref_=as_li_ss_tl) - Php 3000
+1. [Data Warehouse Project by Marcelo Cavero Playlist](https://www.youtube.com/playlist?list=PLtmW5UAta5WlJkogVpi9ZDDuEp882GoxG) - FREE
+2. [Data Warehouse Fundamentals for Beginners - Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) - Php 5000
+3. [The Data Warehouse Toolkit Book](https://www.amazon.co.uk/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802?&linkId=50a288800f3324f8ac8fc28046b71815&language=en_GB&ref_=as_li_ss_tl) - Php 3000
 
 ### ETL
-1. [Data Engineering with Python Book](https://www.amazon.co.uk/dp/B08DSLVFNR?_encoding=UTF8&btkr=1&linkId=08b038a1d7d0d7297d4ef9841858eabc&language=en_GB&ref_=as_li_ss_tl) - Php 2000
+1. [End to End Project on Create Data Pipeline in Azure Video](https://www.youtube.com/watch?v=6iWHf3NIB9o) - FREE
+2. [Data Engineering with Python Book](https://www.amazon.co.uk/dp/B08DSLVFNR?_encoding=UTF8&btkr=1&linkId=08b038a1d7d0d7297d4ef9841858eabc&language=en_GB&ref_=as_li_ss_tl) - Php 2000
 
 ## December 2024
 Learn more about Data Engineering and take all the activities in Google Cloud Skills Boost from [Database Engineer Learning Path](https://www.cloudskillsboost.google/paths/22)
