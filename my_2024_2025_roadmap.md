@@ -5,6 +5,13 @@ Hello. Since I'm still new in the data engineering field, I wanted to have a roa
 Focus more on work to soak up all of the experience and to review for the Civil Service Exam (Jan-Feb).
 
 ## April - December 2024
+Widen professional network and online presence through the following:
+- Writing a blog once a month on Medium about AI and Data Ethics
+- Writing a blog once a month on Hashnode about my personal tech journey
+- Mentoring at least one person in Exercism per month
+- Contribute on topics on LinkedIn
+
+## January - October 2025
 Learn more about Data Engineering Fundamentals and have a strong foundation about it. Terminologies, processes, important things to consider, principles, and practices.
 
 ### Foundational
@@ -24,13 +31,8 @@ Learn more about Data Engineering Fundamentals and have a strong foundation abou
 2. [Data Engineering with Python Book](https://www.amazon.co.uk/dp/B08DSLVFNR?_encoding=UTF8&btkr=1&linkId=08b038a1d7d0d7297d4ef9841858eabc&language=en_GB&ref_=as_li_ss_tl) - Php 2000
 
 ### Cloud Focused
-1. [Database Engineer Learning Path](https://www.cloudskillsboost.google/paths/22) - FREE
-2. [Data Engineering for Beginner using Google Cloud & Python](https://www.udemy.com/course/basic-data-engineering-for-beginner-using-google-cloud-python/) - Php 2500
-3. [Data Engineering with Google Dataflow and Apache Beam on GCP](https://www.udemy.com/course/data-engineering-with-google-dataflow-and-apache-beam/) - Php 2500
-4. [Data Engineering on Google Cloud platform](https://www.udemy.com/course/data-engineering-on-google-cloud-platform/) - Php 1000
-5. [Master Data Engineering using GCP Data Analytics](https://www.udemy.com/course/master-data-engineering-using-gcp-data-analytics/) - Php 3500
+1. [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00) - FREE
+2. [Microsoft Azure Data Fundamentals](https://learn.microsoft.com/en-us/training/courses/dp-900t00) - FREE
+3. [Training for Data Engineers](https://learn.microsoft.com/en-us/training/career-paths/data-engineer) - FREE
 
 While learning, I will try to make short learning projects to apply what I've learned for every resource  or topic.
-
-## January-March 2025
-Make an End-to-End project that actually provides value
