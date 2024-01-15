@@ -24,7 +24,8 @@ Learn more about Data Engineering Fundamentals and have a strong foundation abou
 ### Database / Data Warehouse Focused
 1. [Data Warehouse Project by Marcelo Cavero Playlist](https://www.youtube.com/playlist?list=PLtmW5UAta5WlJkogVpi9ZDDuEp882GoxG) - FREE
 2. [Data Warehouse Fundamentals for Beginners - Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) - Php 5000
-3. [The Data Warehouse Toolkit Book](https://www.amazon.co.uk/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802?&linkId=50a288800f3324f8ac8fc28046b71815&language=en_GB&ref_=as_li_ss_tl) - Php 3000
+3. [Apache Spark and Databricks - Stream Processing in Lakehouse](https://www.udemy.com/course/spark-streaming-using-python/) - Php 1000
+4. [The Data Warehouse Toolkit Book](https://www.amazon.co.uk/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802?&linkId=50a288800f3324f8ac8fc28046b71815&language=en_GB&ref_=as_li_ss_tl) - Php 3000
 
 ### ETL / Pipeline Focused
 1. [End to End Project on Create Data Pipeline in Azure Video](https://www.youtube.com/watch?v=6iWHf3NIB9o) - FREE
