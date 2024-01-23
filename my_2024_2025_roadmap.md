@@ -11,6 +11,11 @@ Widen professional network and online presence through the following:
 - Mentoring at least one person in Exercism per month
 - Contribute on topics on LinkedIn
 
+Improve communication skills:
+- English speaking
+- listening
+- email writing
+
 ## January - October 2025
 Learn more about Data Engineering Fundamentals and have a strong foundation about it. Terminologies, processes, important things to consider, principles, and practices.
 
