@@ -4,7 +4,7 @@
 ### Background
 Hello there! This is my data engineering repository where I will apply all that I've learned about data engineering. The topics are making an ETL pipeline, data modeling, error handling, code standards, logging, unit testing, and other concepts that may be related to data engineering. Also, this is where I will generally document my progress on learning and applying data engineering concepts.
 
-Additionally, this repository will contain two main directories: Learning Projects and Projects. **Learning Projects** will contain my short projects that I aim to apply concepts and knowledge that I learned. These projects will most probably take me about 1-2 weeks to do. **Projects** on the other hand will contain multiple concepts and knowledge that I have gained from Learning Projects. These will take me about 1-2 months to finish.
+Additionally, this repository will contain two main directories: Learning Projects and Projects. **Bite Projects** will contain my short projects that I aim to apply concepts and knowledge that I learned. These projects will most probably take me about 1-2 weeks to do. **Projects** on the other hand will contain multiple concepts and knowledge that I have gained from Learning Projects. These will take me about 1-2 months to finish.
 
 ### How can this repository help you
 Possibly, you can see how I do or set the following:
