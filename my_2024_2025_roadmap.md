@@ -10,6 +10,9 @@ Widen professional network and online presence through the following:
 - Writing a blog once a month on Hashnode about my personal tech journey
 - Mentoring at least one person in Exercism per month
 - Contribute on topics on LinkedIn
+- React and/or comment on LinkedInt posts
+- Engage in Kaggle discussions
+- React and/or comment on DEP FB posts and groups
 
 Improve communication skills:
 - English speaking
